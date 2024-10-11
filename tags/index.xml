@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Meu site feito com o Hugo</title>
-    <link>https://stefaniRuiz.github/testesitehugo/tags/</link>
+    <link>https://stefaniRuiz.github.io/testesitehugo/tags/</link>
     <description>Recent content in Tags on Meu site feito com o Hugo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="https://stefaniRuiz.github/testesitehugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stefaniRuiz.github.io/testesitehugo/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

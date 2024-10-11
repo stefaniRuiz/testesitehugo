@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Meu site feito com o Hugo</title>
+    <link>https://stefaniRuiz.github/testesitehugo/posts/</link>
+    <description>Recent content in Posts on Meu site feito com o Hugo</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 11 Oct 2024 14:43:09 -0300</lastBuildDate>
+    <atom:link href="https://stefaniRuiz.github/testesitehugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post</title>
+      <link>https://stefaniRuiz.github/testesitehugo/posts/my-first-post/</link>
+      <pubDate>Fri, 11 Oct 2024 14:43:09 -0300</pubDate>
+      <guid>https://stefaniRuiz.github/testesitehugo/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introdução&#34;&gt;Introdução&lt;/h2&gt;&#xA;&lt;p&gt;Este é um texto em &lt;strong&gt;negrito&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Conheça o &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt; wbsite&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

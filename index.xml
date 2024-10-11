@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meu site feito com o Hugo</title>
+    <title>Meu site - usando hugo on Meu site feito com o Hugo</title>
     <link>https://stefaniRuiz.github.io/testesitehugo/</link>
-    <description>Recent content on Meu site feito com o Hugo</description>
+    <description>Recent content in Meu site - usando hugo on Meu site feito com o Hugo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 11 Oct 2024 14:43:09 -0300</lastBuildDate>
